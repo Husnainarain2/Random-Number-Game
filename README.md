@@ -1,8 +1,10 @@
-Random Number Game (Java Console Application)
+<img width="1065" height="725" alt="image" src""C:\Users\Barkat Trader\OneDrive\Pictures\Screenshots\Screenshot 2026-01-30 210110 - Copy.png">
+
+# Random Number Game (Java Console Application)
 
 The Random Number Game is a beginner-friendly Java console application where the computer generates a random number and the player tries to guess it. After each guess, the program tells whether the guessed number is greater than, less than, or equal to the computer’s number. The game continues until the correct number is guessed.
 
-📖 Description
+# Description
 
 This project is designed to practice core Java concepts such as:
  Object-Oriented Programming (OOP)
@@ -13,7 +15,7 @@ Random number generation
 
 It is ideal for Java beginners who want hands-on experience with logic building.
 
-✨ Features
+# Features
 
 🎲 Random number generation between 1 and 100
 
@@ -27,7 +29,7 @@ It is ideal for Java beginners who want hands-on experience with logic building.
 
 ❌ Ends only when the correct number is guessed
 
-🛠 Technologies & Concepts Used
+# 🛠 Technologies & Concepts Used
 
 Java
 
@@ -53,14 +55,14 @@ Math.random()
 
 Scanner
 
-📁 Project Structure
+# 📁 Project Structure
 Random-Number-Game/
 │
 ├── Game.java      // Game logic and checking mechanism
 ├── Main.java      // Main execution file
 └── README.md      // Project documentation
 
-▶️ How to Run the Project
+# ▶️ How to Run the Project
 🔹 Step 1: Clone the Repository
 git clone https://github.com/Husnainarain2/Random-Number-Game.git
 
@@ -73,7 +75,7 @@ javac Game.java Main.java
 🔹 Step 4: Run the Program
 java Main
 
-🧠 How the Game Works (Logic Explanation)
+# 🧠 How the Game Works (Logic Explanation)
 
 The computer generates a random number between 1 and 100
 
@@ -91,7 +93,7 @@ Each attempt increases the counter
 
 Game ends after the correct guess
 
-🧪 Sample Output
+# 🧪 Sample Output
 Welcome to Random Number Game
 select the Number between 1 to 100 for win
 45
