@@ -1,4 +1,3 @@
-<img width="1065" height="725" alt="image" src""C:\Users\Barkat Trader\OneDrive\Pictures\Screenshots\Screenshot 2026-01-30 210110 - Copy.png">
 
 # Random Number Game (Java Console Application)
 
@@ -92,6 +91,9 @@ If guess == random number → Correct Guess
 Each attempt increases the counter
 
 Game ends after the correct guess
+
+
+![Game code](Assets/Screenshot 2026-01-30 210110 - Copy.png)(Assets/Screenshot 2026-01-30 210110.png)
 
 # 🧪 Sample Output
 Welcome to Random Number Game
