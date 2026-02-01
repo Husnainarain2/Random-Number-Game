@@ -92,8 +92,8 @@ Each attempt increases the counter
 
 Game ends after the correct guess
 
-
-![Game code](Assets/Screenshot 2026-01-30 210110 - Copy.png)(Assets/Screenshot 2026-01-30 210110.png)
+# ![Game code]
+<img width="1065" height="725" alt="image" src="https://github.com/Husnainarain2/Random-Number-Game/blob/main/Assets/Screenshot%202026-01-30%20210110.png" />
 
 # 🧪 Sample Output
 Welcome to Random Number Game
