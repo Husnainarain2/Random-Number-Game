@@ -94,6 +94,7 @@ Game ends after the correct guess
 
 # ![Game code]
 <img width="1065" height="725" alt="image" src="https://github.com/Husnainarain2/Random-Number-Game/blob/main/Assets/Screenshot%202026-01-30%20210110.png" />
+<img width="1065" height="725" alt="image" src="https://github.com/Husnainarain2/Random-Number-Game/blob/main/Assets/Screenshot%202026-01-30%20210137.png" />
 
 # 🧪 Sample Output
 Welcome to Random Number Game
