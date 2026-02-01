@@ -1,6 +1,5 @@
 public class Game {
-    int n,x;
-    int noOfTrails=0;
+    int n,x;    int noOfTrails=0;
     public Game(int comNumber){
         this.x=comNumber;
     }
